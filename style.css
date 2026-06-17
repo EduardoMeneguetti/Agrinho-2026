@@ -1,31 +1,18 @@
 body{
     background-color: #3b540f;
     color: white;
-    font-family: Arial, sans-serif;
+    font-family: 'Bai Jamjuree', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
 }
-
-main{
-    width: 80%;
-    max-width: 800px;
-    margin: 100px auto;
-    text-align: center;
-}
-
-.passo{
-    display: none;
-    background: rgba(255,255,255,0.1);
-    padding: 30px;
-    border-radius: 15px;
-}
-
-.passo.ativo{
-    display: block;
-}
-
+    
 button{
-    padding: 10px 20px;
-    margin-top: 20px;
-    cursor: pointer;
+   background-color: #8fd615;
+   color: white;
+   font-family: 'Bai Jamjuree', sans-serif;
 }
 
 .passo {
