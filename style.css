@@ -27,3 +27,11 @@ button{
     margin-top: 20px;
     cursor: pointer;
 }
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display: block;
+}
