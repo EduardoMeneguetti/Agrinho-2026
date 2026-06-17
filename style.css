@@ -3,8 +3,7 @@ body {
     color: white;
     font-family: "bai Jamjuree", sans-serif;
     display: flex;
-    justify-content: center;
-    height: 700px;
+    height: 400px;
 }
 
 button {
