@@ -9,3 +9,15 @@ avança.forEach(button => {
         document.getElementById(proximoPasso).classList.add('ativo');
     } )
 })
+
+document.querySelectorAll('.btn-voltar').forEach(botao => {
+    botao.addEventListener('click', () => {
+        const anterior = botao.dataset.voltar;
+
+        document.querySelectorAll('.passo').forEach(passo => {
+            passo.style.display = 'none';
+        });
+
+        document.getElementById(`passo-${anterior}`).style.display = 'block';
+    });
+});
