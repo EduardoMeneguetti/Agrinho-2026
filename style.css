@@ -36,3 +36,10 @@ main img {
     height: auto;
     border-radius: 10px;
 }
+
+.card img {
+    width: 180px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 8px;
+}
