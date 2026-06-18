@@ -45,6 +45,6 @@ img {
 .timeline-item img,
 .card img,
 img {
-    width: 250px !important;
+    width: 400px !important;
     height: auto !important;
 }
