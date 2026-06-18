@@ -10,14 +10,10 @@ avança.forEach(button => {
     } )
 })
 
-document.querySelectorAll('.btn-voltar').forEach(botao => {
-    botao.addEventListener('click', () => {
-        const anterior = botao.dataset.voltar;
-
-        document.querySelectorAll('.passo').forEach(passo => {
-            passo.style.display = 'none';
-        });
-
-        document.getElementById(`passo-${anterior}`).style.display = 'block';
-    });
+document.getElementById("btn-voltar").addEventListener("click", () => {
+    if (passoAtual > 0) {
+        passos[passoAtual].classList.remove("ativo");
+        passoAtual--;
+        passos[passoAtual].classList.add("ativo");
+    }
 });
