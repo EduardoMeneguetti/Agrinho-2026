@@ -23,32 +23,6 @@ button{
     display: block;
 }
 
-main {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 20px;
-}
-
-main img {
-    width: 80%;
-    max-width: 900px;
-    height: auto;
-    border-radius: 10px;
-}
-
-img {
-    width: 200px;
-    height: auto;
-}
-
-.timeline-item img,
-.card img,
-img {
-    width: 400px !important;
-    height: auto !important;
-}
-
 .voltar {
     display: inline-block;
     padding: 10px 20px;
@@ -65,16 +39,34 @@ img {
     text-shadow: 0 0 10px #3b540f;
 }
 .totó{
-    display:center;
+    display:flex-start;
     font-family:'Times New Roman', Times, serif;
     color:aqua;
     text-shadow:#3b540f;
-    font-size: 20px;
+    font-size: 30px;
+    text-align: center;
 }
+
 
 .bito1{
     display:center;
     font-family: 'Times New Roman', Times, serif;
     color: aqua;
     text-shadow: #3b540f;
+    font-size: 30px;
+    display: flex;
 }
+
+.bitle{
+    margin-top: 30px;
+}
+
+.img-media {
+    width: 500px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
