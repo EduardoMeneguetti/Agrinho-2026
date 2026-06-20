@@ -85,3 +85,12 @@ button{
 .btn-reiniciar:hover{
     transform: scale(1.05);
 }
+
+.polly{
+    display:center;
+    font-family: 'Times New Roman', Times, serif;
+    color: aqua;
+    text-shadow: #3b540f;
+    font-size: 30px;
+    display: flex;
+}
