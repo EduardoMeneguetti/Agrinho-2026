@@ -74,8 +74,8 @@ button{
     background-color: #99CC00;
     color: #FFFF99;
     border: 2px solid black;
-    padding: 5px 15px;
-    font-size: 18px;
+    padding: 3px 10px;
+    font-size: 8px;
     cursor: pointer;
     font-family: Arial, sans-serif;
 }
