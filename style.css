@@ -70,14 +70,13 @@ button{
     border-radius: 10px;
 }
 
-.btn-recomecar {
+.btn-recomecar{
     background-color: #99CC00;
     color: #FFFF99;
     border: 2px solid black;
-    padding: 3px 10px;
-    font-size: 8px;
+    padding: 4px 12px;   
+    font-size: 14px;     
     cursor: pointer;
-    font-family: Arial, sans-serif;
 }
 
 .btn-recomecar:hover {
