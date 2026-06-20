@@ -93,33 +93,3 @@ button{
     display: flex;
 }
 
-.quiz-final{
-    text-align: center;
-}
-
-.opcao{
-    display:block;
-    width:350px;
-    margin:15px auto;
-    padding:15px;
-
-    font-size:22px;
-
-    background:#99cc00;
-    color:white;
-
-    border:3px solid black;
-
-    transition:0.3s;
-}
-
-.opcao:hover{
-    transform:scale(1.05);
-}
-
-#resultado{
-    margin-top: 25px;
-    font-size: 24px;
-    color: aqua;
-    font-weight: bold;
-}
