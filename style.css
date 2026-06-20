@@ -72,9 +72,8 @@ button{
 
 .btn-reiniciar{
     margin-top: 20px;
-    padding: 12px 25px;
+    padding: 10px 20px;
     border: none;
-    border-radius: 10px;
     cursor: pointer;
     font-size: 18px;
     background: #4CAF50;
