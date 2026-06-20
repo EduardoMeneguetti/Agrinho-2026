@@ -92,3 +92,30 @@ button{
     font-size: 30px;
     display: flex;
 }
+
+.quiz-final{
+    text-align: center;
+}
+
+.opcao{
+    display: block;
+    margin: 10px auto;
+    padding: 12px;
+    width: 300px;
+
+    background: #99cc00;
+    border: 2px solid black;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.opcao:hover{
+    transform: scale(1.03);
+}
+
+#resultado{
+    margin-top: 25px;
+    font-size: 24px;
+    color: aqua;
+    font-weight: bold;
+}

@@ -94,17 +94,25 @@
     </div>
 
     <div class="passo" id="passo-5">
-    <div class="polly">
-         <h1>Conclusão</h1>
+    <div class="quiz-final">
+        <div class="polly">
+           <h1>Uma última pergunta...</h1>
     </div>
-        
-        <p>
-        Ao longo destes dias vimos como a ausência da agricultura afeta
-        diretamente a vida das pessoas.
-        </p>
-        <p>
-        O campo alimenta a cidade e contribui para o desenvolvimento de toda a sociedade.
-        </p>
+         <p>Qual destes setores depende do campo?</p>
+       
+         <button class="opcao" onclick="responder(false)">Supermercados</button>
+
+         <button class="opcao" onclick="responder(false)">Hospitais</button>
+
+         <button class="opcao" onclick="responder(false)">Indústrias</button>
+
+        <button class="opcao" onclick="responder(false)">Escolas</button>
+
+    <button class="opcao" onclick="responder(true)">Todos os anteriores</button>
+
+    <div id="resultado"></div>
+    </div>
+
         <button class="btn-recomecar" onclick="location.reload()">Recomeçar</button>
     </div>
 
