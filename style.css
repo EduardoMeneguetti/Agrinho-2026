@@ -115,3 +115,12 @@ p{
     right:120px;
     top:300px;
 }
+
+.titulo{
+    display:center;
+    font-family: 'Times New Roman', Times, serif;
+    color: aqua;
+    text-shadow: #3b540f;
+    font-size: 30px;
+    display: flex;
+}
