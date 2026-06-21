@@ -98,3 +98,12 @@ h1, h2{
     border-radius: 10px;
     width: fit-content;
 }
+
+p{
+    background-color: white;
+    color: black;
+    padding: 12px;
+    border-radius: 10px;
+    margin: 10px 0;
+    width: fit-content;
+}
