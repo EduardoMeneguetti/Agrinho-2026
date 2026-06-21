@@ -105,3 +105,10 @@ p{
     border-radius: 10px;
     width: fit-content;
 }
+
+.painel{
+    width:350px;
+    background:rgba(255,255,255,0.08);
+    padding:20px;
+    border-radius:15px;
+}
