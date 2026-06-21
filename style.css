@@ -5,6 +5,7 @@ body{
     display: flex;
     height: 700px;
     margin: 0;
+    padding-left: 100px;
 }
     
 button{
