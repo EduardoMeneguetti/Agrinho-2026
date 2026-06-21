@@ -111,4 +111,8 @@ p{
     background:rgba(255,255,255,0.08);
     padding:20px;
     border-radius:15px;
+    position: absolute;
+    right: 120px;
+    top: 500px;
+    width: 420px;
 }
