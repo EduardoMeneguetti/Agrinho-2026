@@ -113,10 +113,37 @@ p{
     border-radius:15px;
     position:absolute;
     right:120px;
-    top:300px;
+    top:150px;
 }
 
 .titulo{
+    display:center;
+    font-family: 'Times New Roman', Times, serif;
+    color: aqua;
+    text-shadow: #3b540f;
+    font-size: 15px;
+    display: flex;
+}
+
+.titulo2{
+    display:center;
+    font-family: 'Times New Roman', Times, serif;
+    color: aqua;
+    text-shadow: #3b540f;
+    font-size: 15px;
+    display: flex;
+}
+
+.titulo3{
+    display:center;
+    font-family: 'Times New Roman', Times, serif;
+    color: aqua;
+    text-shadow: #3b540f;
+    font-size: 15px;
+    display: flex;
+}
+
+.titulo4{
     display:center;
     font-family: 'Times New Roman', Times, serif;
     color: aqua;
