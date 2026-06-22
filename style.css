@@ -143,19 +143,19 @@ p{
 }
 
 .curiosidade{
-    width:450px;
-    background:rgba(255,255,255,0.08);
-    padding:20px;
-    border-radius:15px;
-    right:120px;
-    top:220px;
+    background: rgba(255,255,255,0.08);
+    border-radius: 20px;
+    padding: 25px;
+    margin-top: 20px;
+    width: 500px;
 }
 
-.titulocuriosidade{
-    display:center;
-    font-family: 'Times New Roman', Times, serif;
+.curiosidade h3{
     color: aqua;
-    text-shadow: #3b540f;
-    font-size: 15px;
-    display: flex;
+    margin-bottom: 15px;
+}
+
+.curiosidade p{
+    color: white;
+    line-height: 1.6;
 }
