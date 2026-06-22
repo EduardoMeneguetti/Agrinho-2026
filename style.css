@@ -141,3 +141,22 @@ p{
     font-size: 15px;
     display: flex;
 }
+
+.curiosidade{
+    width:450px;
+    background:rgba(255,255,255,0.08);
+    padding:20px;
+    border-radius:15px;
+    position:absolute;
+    right:120px;
+    top:220px;
+}
+
+.titulocuriosidade{
+    display:center;
+    font-family: 'Times New Roman', Times, serif;
+    color: aqua;
+    text-shadow: #3b540f;
+    font-size: 15px;
+    display: flex;
+}
