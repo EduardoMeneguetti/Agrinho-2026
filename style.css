@@ -142,20 +142,38 @@ p{
     display: flex;
 }
 
-.curiosidade{
-    background: rgba(255,255,255,0.08);
-    border-radius: 20px;
-    padding: 25px;
-    margin-top: 20px;
-    width: 500px;
-}
-
-.curiosidade h3{
+.titulo-2{
+    display:center;
+    font-family: 'Times New Roman', Times, serif;
     color: aqua;
-    margin-bottom: 15px;
+    text-shadow: #3b540f;
+    font-size: 15px;
+    display: flex;
 }
 
-.curiosidade p{
-    color: white;
-    line-height: 1.6;
+.titulo-1{
+    display:center;
+    font-family: 'Times New Roman', Times, serif;
+    color: aqua;
+    text-shadow: #3b540f;
+    font-size: 15px;
+    display: flex;
+}
+
+.titulo-3{
+    display:center;
+    font-family: 'Times New Roman', Times, serif;
+    color: aqua;
+    text-shadow: #3b540f;
+    font-size: 15px;
+    display: flex;
+}
+
+.titulo-4{
+    display:center;
+    font-family: 'Times New Roman', Times, serif;
+    color: aqua;
+    text-shadow: #3b540f;
+    font-size: 15px;
+    display: flex;
 }
