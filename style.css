@@ -51,13 +51,16 @@ button{
     margin-top: 30px;
 }
 
-.img-media {
-    width: 600px;
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 20px auto;
-    border-radius: 10px;
+.img-media{
+    width: 450px;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 20px;
+}
+
+.painel{
+    max-width: 450px;
+    margin-left: 500px;
 }
 
 .btn-comecar{
