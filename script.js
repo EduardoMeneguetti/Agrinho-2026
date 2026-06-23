@@ -65,6 +65,6 @@ function entrar(){
     document.getElementById("login").classList.remove("ativo");
     document.getElementById("passo-0").classList.add("ativo");
 
-    document.getElementById("dadosUsuario").innerHTML =
+    document.getElementById("login").innerHTML =
         "👤 Nome: " + nome + "<br>🎂 Idade: " + idade + " anos";
 }
