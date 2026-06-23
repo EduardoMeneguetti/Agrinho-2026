@@ -97,15 +97,8 @@ p{
 }
 
 .painel{
-    width:100px;
-    background:rgba(255,255,255,0.08);
-    padding:20px;
-    border-radius:15px;
     max-width: 450px;
     margin-left: 500px;
-    position:static;
-    margin:20px auto;
-    top:25px;
 }
 
 .titulo{
