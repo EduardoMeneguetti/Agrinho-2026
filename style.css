@@ -238,8 +238,7 @@ input::placeholder{
 .dudu button{
     background: #195d5a;
     color: white;
-    border-radius: 4px;
-    padding: 8px 14px;
+    padding: 8px;
     font-size: 12px;
     font-family: 'Bai Jamjuree', sans-serif;
 }
