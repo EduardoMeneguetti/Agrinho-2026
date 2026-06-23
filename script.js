@@ -42,15 +42,6 @@ function altoContraste(){
     document.body.classList.toggle("contraste");
 }
 
-function lerPagina(){
-    let texto = document.querySelector(".ativo").innerText;
-
-    let fala = new SpeechSynthesisUtterance(texto);
-    fala.lang = "pt-BR";
-
-    speechSynthesis.speak(fala);
-}
-
 
 function entrar(){
 

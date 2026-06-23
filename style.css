@@ -230,7 +230,8 @@ input::placeholder{
 
 .img-media{
     width: 600px;
-    margin: 0;
+    display: block;
+    margin: 0 auto;
 }
 
 .painel{
