@@ -37,7 +37,8 @@ button{
     text-shadow: 0 0 10px #3b540f;
 }
 .totó{
-    display:flex-start;
+    display:flex;
+    justify-content:center;
     font-family:'Times New Roman', Times, serif;
     color:aqua;
     text-shadow:#3b540f;
@@ -64,7 +65,8 @@ button{
 }
 
 .polly{
-    display:center;
+    display:flex;
+    justify-content:center;
     font-family: 'Times New Roman', Times, serif;
     color: aqua;
     text-shadow: #3b540f;
@@ -86,73 +88,81 @@ p{
 }
 
 .titulo{
-    display:center;
+    display:flex;
+    justify-content:center;
     font-family: 'Times New Roman', Times, serif;
     color: aqua;
-    text-shadow: #3b540f;
+    text-shadow: 0 0 10px #3b540f;
     font-size: 15px;
     display: flex;
 }
 
 .titulo2{
-    display:center;
+    display:flex;
+    justify-content:center;
     font-family: 'Times New Roman', Times, serif;
     color: aqua;
-    text-shadow: #3b540f;
+    text-shadow: 0 0 10px #3b540f;
     font-size: 15px;
     display: flex;
 }
 
 .titulo3{
-    display:center;
+    display:flex;
+    justify-content:center;
     font-family: 'Times New Roman', Times, serif;
     color: aqua;
-    text-shadow: #3b540f;
+    text-shadow: 0 0 10px #3b540f;
     font-size: 15px;
     display: flex;
 }
 
 .titulo4{
-    display:center;
+    display:flex;
+    justify-content:center;
     font-family: 'Times New Roman', Times, serif;
     color: aqua;
-    text-shadow: #3b540f;
+    text-shadow: 0 0 10px #3b540f;
     font-size: 15px;
     display: flex;
 }
 
 .titulo-2{
-    display:center;
+    display:flex;
+    justify-content:center;
     font-family: 'Times New Roman', Times, serif;
     color: aqua;
-    text-shadow: #3b540f;
+    text-shadow: 0 0 10px #3b540f;
     font-size: 15px;
     display: flex;
 }
 
 .titulo-1{
-    display:center;
+    display:flex;
+    justify-content:center;
     font-family: 'Times New Roman', Times, serif;
     color: aqua;
-    text-shadow: #3b540f;
+    text-shadow: 0 0 10px #3b540f;
     font-size: 15px;
     display: flex;
 }
 
 .titulo-3{
-    display:center;
+    display:flex;
+    justify-content:center;
     font-family: 'Times New Roman', Times, serif;
     color: aqua;
-    text-shadow: #3b540f;
+    text-shadow: 0 0 10px #3b540f;
     font-size: 15px;
     display: flex;
 }
 
 .titulo-4{
-    display:center;
+    display:flex;
+    justify-content:center;
     font-family: 'Times New Roman', Times, serif;
     color: aqua;
-    text-shadow: #3b540f;
+    text-shadow: 0 0 10px #3b540f;
     font-size: 15px;
     display: flex;
 }
@@ -172,16 +182,6 @@ p{
     background:#2f3448;
     color:white;
     font-size:18px;
-}
-
-.btn-comecar{
-    padding:15px 25px;
-    border:none;
-    border-radius:10px;
-    background:#1f8b8b;
-    color:white;
-    font-size:16px;
-    cursor:pointer;
 }
 
 .contraste{
@@ -233,6 +233,8 @@ input::placeholder{
 }
 
 .painel{
-    margin: 0;
-    max-width: 400px;
+    max-width:400px;
+    background: rgba(255,255,255,0.08);
+    padding:20px;
+    border-radius:15px;
 }
