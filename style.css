@@ -227,3 +227,19 @@ input{
 input::placeholder{
     color: rgba(255,255,255,0.7);
 }
+
+.dudu{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 9999;
+}
+
+.dudu button{
+    background-color: #195d5a;
+    color: white;
+    border: 2px solid white;
+    border-radius: 8px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
