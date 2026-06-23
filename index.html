@@ -10,7 +10,14 @@
     <title>AGRINHO 2026</title>
 </head>
 <body>
-    <main>
+    
+   <div class="dudu">
+    <button onclick="aumentarFonte()">A+</button>
+    <button onclick="diminuirFonte()">A-</button>
+    <button onclick="altoContraste()">Contraste</button>
+   </div>
+
+   <main>
 
     <div class="passo ativo" id="passo-0">
         <div class="totó">
@@ -22,6 +29,19 @@
         <p>Os preços subiriam e produtos básicos se tornariam raros.</p>
         <p>Em poucas semanas, toda a sociedade sentiria os impactos.</p>
         
+        <div class="passo ativo" id="login">
+
+       <p>Digite seus dados para iniciar:</p>
+
+       <input type="text" id="nome" placeholder="Seu nome">
+
+       <input type="number" id="idade" placeholder="Sua idade">
+
+       <button onclick="entrar()">Entrar</button>
+
+      </div>
+
+
         <button class="btn-proximo" data-proximo="1">Começar</button>
     </div>
 
