@@ -62,27 +62,9 @@ function entrar(){
         return;
     }
 
-    localStorage.setItem("nomeUsuario", nome);
-    localStorage.setItem("idadeUsuario", idade);
-
     document.getElementById("login").classList.remove("ativo");
     document.getElementById("passo-0").classList.add("ativo");
 
     document.getElementById("dadosUsuario").innerHTML =
         "👤 Nome: " + nome + "<br>🎂 Idade: " + idade + " anos";
-}
-
-window.onload = function(){
-
-    const nome = localStorage.getItem("nomeUsuario");
-    const idade = localStorage.getItem("idadeUsuario");
-
-    if(nome && idade){
-
-        document.getElementById("login").classList.remove("ativo");
-        document.getElementById("passo-0").classList.add("ativo");
-
-        document.getElementById("dadosUsuario").innerHTML =
-            "👤 Nome: " + nome + "<br>🎂 Idade: " + idade + " anos";
-    }
 }
