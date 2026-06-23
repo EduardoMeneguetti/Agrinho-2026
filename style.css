@@ -5,12 +5,18 @@ body{
     margin: 0;
     padding: 20px;
     min-height: 100vh;
+    max-width: 1400px;
+    margin: auto;
 }
     
 button{
-   background-color: #195d5a;
-   color: white;
-   font-family: 'Bai Jamjuree', sans-serif;
+    background-color: #195d5a;
+    color: white;
+    font-family: 'Bai Jamjuree', sans-serif;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
 }
 
 .passo {
@@ -222,21 +228,27 @@ input::placeholder{
 
 .imagem-e-curiosidade{
     display: flex;
-    gap: 30px;
-    align-items: flex-start;
     justify-content: center;
+    align-items: flex-start;
+    gap: 30px;
     flex-wrap: wrap;
 }
 
 .img-media{
     width: 600px;
+    max-width: 100%;
+    border-radius: 15px;
     display: block;
-    margin: 0 auto;
 }
 
 .painel{
-    max-width:400px;
+    width: 420px;
+    max-width: 100%;
     background: rgba(255,255,255,0.08);
-    padding:20px;
-    border-radius:15px;
+    padding: 25px;
+    border-radius: 15px;
+}
+
+.passo p{
+    max-width: 1000px;
 }
