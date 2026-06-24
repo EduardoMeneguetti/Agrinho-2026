@@ -10,6 +10,7 @@ body{
 }
     
 button{
+    background-color: #4CAF50;
     padding: 5px 10px;
     font-size: 14px;
 }
@@ -216,6 +217,7 @@ input::placeholder{
 }
 
 .dudu button{
+    background-color: #4CAF50;
     padding: 5px 10px;
     font-size: 14px;
 }
