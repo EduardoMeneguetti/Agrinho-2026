@@ -10,13 +10,8 @@ body{
 }
     
 button{
-    background-color: #2a8b47;
-    color: white;
-    font-family: 'Bai Jamjuree', sans-serif;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 8px;
-    cursor: pointer;
+    padding: 5px 10px;
+    font-size: 14px;
 }
 
 .passo {
@@ -221,11 +216,8 @@ input::placeholder{
 }
 
 .dudu button{
-    background: #3d7640;
-    color: white;
-    padding: 8px;
-    font-size: 12px;
-    font-family: 'Bai Jamjuree', sans-serif;
+    padding: 5px 10px;
+    font-size: 14px;
 }
 
 .imagem-e-curiosidade{
