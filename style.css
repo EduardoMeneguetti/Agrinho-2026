@@ -10,7 +10,7 @@ body{
 }
     
 button{
-    background-color: #195d5a;
+    background-color: #2a8b47;
     color: white;
     font-family: 'Bai Jamjuree', sans-serif;
     padding: 10px 20px;
@@ -74,7 +74,7 @@ button{
     display:flex;
     justify-content:center;
     font-family: 'Times New Roman', Times, serif;
-    color: aqua;
+    color: #2e7d32;
     text-shadow: #3b540f;
     font-size: 30px;
     display: flex;
@@ -99,7 +99,7 @@ p{
     display:flex;
     justify-content:center;
     font-family: 'Times New Roman', Times, serif;
-    color: aqua;
+    color: #2e7d32;
     text-shadow: 0 0 10px #3b540f;
     font-size: 15px;
     display: flex;
@@ -109,7 +109,7 @@ p{
     display:flex;
     justify-content:center;
     font-family: 'Times New Roman', Times, serif;
-    color: aqua;
+    color: #2e7d32;
     text-shadow: 0 0 10px #3b540f;
     font-size: 15px;
     display: flex;
@@ -119,7 +119,7 @@ p{
     display:flex;
     justify-content:center;
     font-family: 'Times New Roman', Times, serif;
-    color: aqua;
+    color: #2e7d32;
     text-shadow: 0 0 10px #3b540f;
     font-size: 15px;
     display: flex;
@@ -129,7 +129,7 @@ p{
     display:flex;
     justify-content:center;
     font-family: 'Times New Roman', Times, serif;
-    color: aqua;
+    color: #2e7d32;
     text-shadow: 0 0 10px #3b540f;
     font-size: 15px;
     display: flex;
@@ -139,7 +139,7 @@ p{
     display:flex;
     justify-content:center;
     font-family: 'Times New Roman', Times, serif;
-    color: aqua;
+    color: #2e7d32;
     text-shadow: 0 0 10px #3b540f;
     font-size: 15px;
     display: flex;
@@ -149,7 +149,7 @@ p{
     display:flex;
     justify-content:center;
     font-family: 'Times New Roman', Times, serif;
-    color: aqua;
+    color: #2e7d32;
     text-shadow: 0 0 10px #3b540f;
     font-size: 15px;
     display: flex;
@@ -159,7 +159,7 @@ p{
     display:flex;
     justify-content:center;
     font-family: 'Times New Roman', Times, serif;
-    color: aqua;
+    color: #2e7d32;
     text-shadow: 0 0 10px #3b540f;
     font-size: 15px;
     display: flex;
@@ -169,7 +169,7 @@ p{
     display:flex;
     justify-content:center;
     font-family: 'Times New Roman', Times, serif;
-    color: aqua;
+    color: #2e7d32;
     text-shadow: 0 0 10px #3b540f;
     font-size: 15px;
     display: flex;
@@ -221,7 +221,7 @@ input::placeholder{
 }
 
 .dudu button{
-    background: #195d5a;
+    background: #3d7640;
     color: white;
     padding: 8px;
     font-size: 12px;
