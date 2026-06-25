@@ -25,19 +25,6 @@ voltar.forEach(button => {
 });
 
 
-
-let tamanhoAtual = 100;
-
-function aumentarFonte(){
-    tamanhoAtual += 10;
-    document.body.style.fontSize = tamanhoAtual + "%";
-}
-
-function diminuirFonte(){
-    tamanhoAtual -= 10;
-    document.body.style.fontSize = tamanhoAtual + "%";
-}
-
 function altoContraste(){
     document.body.classList.toggle("contraste");
 }
