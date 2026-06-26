@@ -2,7 +2,7 @@ AGRINHO 2026
 
 Sobre o projeto
 
-Esse site mostra, de forma educativa, o que aconteceria se o campo parasse. Na simulação mostra o dia 1, 7, 30 e 90 para o usuario acompanhar caso isso acontecer, mas isso é bem dificil de acontece.
+Esse site mostra, de forma educativa, o que aconteceria se o campo parasse. Na simulação mostra o dia 1, 7, 30 e 90 para o usuario acompanhar caso isso acontecer, mas isso é bem dificil de acontecer.
 
 Funcionalidades
 
@@ -12,7 +12,7 @@ imagens ilustrativas.
 curiosidades sobre o campo.
 modo escuro.
 
-desnvolvedor 
+desenvolvedor 
 
 Eduardo Vieira Meneguetti
 
