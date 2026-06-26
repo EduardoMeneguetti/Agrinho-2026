@@ -7,13 +7,13 @@ Esse site mostra, de forma educativa, o que aconteceria se o campo parasse. Na s
 Funcionalidades
 
 Cadastro de nome e idade.
-etapas dos dias
-imagens ilustrativas
-curiosidades sobre o campo
-modo escuro
+etapas dos dias.
+imagens ilustrativas.
+curiosidades sobre o campo.
+modo escuro.
 
 desnvolvedor 
 
 Eduardo Vieira Meneguetti
 
-No final tem uma imagem que eu mesmo tirei em uma viagem a uns anos 
+No final tem uma imagem que eu mesmo tirei em uma viagem a uns anos. 
