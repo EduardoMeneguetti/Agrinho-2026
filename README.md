@@ -22,11 +22,19 @@ Esse site foi desenvolvido para informar os usuários caso o campo parasse. O si
 
 Instruções 
 
-Início: mostra o tema e pergunta idade e nome do usuário 
-Sobre: explica o que aconteceria se o campo parasse 
-Impacto: mostra as consequências dos dias sem o agro falados no site
+Início: mostra o tema e pergunta idade e nome do usuário. 
+Sobre: explica o que aconteceria se o campo parasse.
+Impacto: mostra as consequências dos dias sem o agro falados no site.
+
+Tecnologias usadas
+HTML 
+CSS
+JavaScript 
 
 desenvolvedor 
 
 Eduardo Vieira Meneguetti
 
+Textos e Imagens 
+
+As quatro primeiras imagens eu tive que gerar na inteligência artificial, por motivos de que eu não achava nenhuma imagem boa e que representava o que eu estava colocando, mas a última imagem foi eu que tirei alguns anos atrás em uma viagem, eu a escoli porque eu achei que melhor representva o tema. Os textos eu que escrevi usando pesquisas na internet.
