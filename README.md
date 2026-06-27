@@ -6,7 +6,7 @@ Esse site mostra, de forma educativa, caso o campo(agro) parasse. Nele tem os di
 
 Objetivo 
 
-O site tem o objetivo de informar o leitor como as coisas aconteceriam, nele informa: cada dia economia vai quebrar vai quebrar mais, a população vai passar fome, etc.
+O site tem o objetivo de informar o leitor como as coisas aconteceriam, nele informa: cada dia a economia vai quebrar mais, a população vai passar fome, etc.
 
 Funcionalidades
 
