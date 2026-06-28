@@ -37,4 +37,4 @@ Eduardo Vieira Meneguetti
 
 Textos e Imagens 
 
-As quatro primeiras imagens eu tive que gerar na inteligência artificial, por motivos de que eu não achava nenhuma imagem boa e que representava o que eu estava colocando, mas a última imagem foi eu que tirei alguns anos atrás em uma viagem, eu a escoli porque eu achei que melhor representva o tema. Os textos eu que escrevi usando pesquisas na internet.
+As imagens eu peguei da internet e editei no canva, mas a ultima eu que tirei em uma viagem. Os textos eu pesquisei e escrevi com minhas palavras 
