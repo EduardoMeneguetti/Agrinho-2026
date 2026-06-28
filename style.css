@@ -234,9 +234,7 @@ input::placeholder{
 
 .dia,
 .passo h2,
-.passo > p,
-.btn-proximo,
-.btn-voltar{
+.passo > p{
     width: 100%;
 }
 
