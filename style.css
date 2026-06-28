@@ -227,10 +227,17 @@ input::placeholder{
 
 .imagem-e-curiosidade{
     display: flex;
-    justify-content: center;
     align-items: flex-start;
     gap: 30px;
     flex-wrap: wrap;
+}
+
+.dia,
+.passo h2,
+.passo > p,
+.btn-proximo,
+.btn-voltar{
+    width: 100%;
 }
 
 .img-media{
